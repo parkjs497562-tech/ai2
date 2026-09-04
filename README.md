@@ -163,7 +163,7 @@ When turning off the TV, change the narration to "I lost again, I'm never watchi
 
 ### 내레이션 / 카피
 
-> **“그래도… 내일 선발은 누구지?”**
+> **“내일 선발 누구지?”**
 
 ### 사용 도구
 
@@ -189,9 +189,6 @@ When turning off the TV, change the narration to "I lost again, I'm never watchi
 
 휴대폰 화면을 중심으로 내일 선발과 전력 관련 정보를 확인하는 장면을 구성합니다.
 
-### 내레이션 / 카피
-
-> **“내일 선발, 전력까지 한눈에.”**
 
 ### 사용 도구
 
@@ -219,7 +216,7 @@ When turning off the TV, change the narration to "I lost again, I'm never watchi
 
 ### 화면 카피
 
-> **“야구를 켜다. 승리를 읽다. 베이스온.”**
+> **“베이스온.”**
 
 ### 사용 도구
 
